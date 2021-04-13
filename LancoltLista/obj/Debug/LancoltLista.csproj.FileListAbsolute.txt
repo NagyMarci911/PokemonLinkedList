@@ -1,0 +1,7 @@
+C:\Users\Ubuntu\source\repos\LancoltLista\LancoltLista\bin\Debug\LancoltLista.exe.config
+C:\Users\Ubuntu\source\repos\LancoltLista\LancoltLista\bin\Debug\LancoltLista.exe
+C:\Users\Ubuntu\source\repos\LancoltLista\LancoltLista\bin\Debug\LancoltLista.pdb
+C:\Users\Ubuntu\source\repos\LancoltLista\LancoltLista\obj\Debug\LancoltLista.csprojAssemblyReference.cache
+C:\Users\Ubuntu\source\repos\LancoltLista\LancoltLista\obj\Debug\LancoltLista.csproj.CoreCompileInputs.cache
+C:\Users\Ubuntu\source\repos\LancoltLista\LancoltLista\obj\Debug\LancoltLista.exe
+C:\Users\Ubuntu\source\repos\LancoltLista\LancoltLista\obj\Debug\LancoltLista.pdb

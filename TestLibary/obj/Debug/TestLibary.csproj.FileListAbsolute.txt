@@ -1,0 +1,17 @@
+C:\Users\Ubuntu\source\repos\LancoltLista\TestLibary\bin\Debug\NUnit3.TestAdapter.dll
+C:\Users\Ubuntu\source\repos\LancoltLista\TestLibary\bin\Debug\NUnit3.TestAdapter.pdb
+C:\Users\Ubuntu\source\repos\LancoltLista\TestLibary\bin\Debug\nunit.engine.dll
+C:\Users\Ubuntu\source\repos\LancoltLista\TestLibary\bin\Debug\nunit.engine.api.dll
+C:\Users\Ubuntu\source\repos\LancoltLista\TestLibary\bin\Debug\nunit.engine.core.dll
+C:\Users\Ubuntu\source\repos\LancoltLista\TestLibary\bin\Debug\TestLibary.dll
+C:\Users\Ubuntu\source\repos\LancoltLista\TestLibary\bin\Debug\TestLibary.pdb
+C:\Users\Ubuntu\source\repos\LancoltLista\TestLibary\bin\Debug\LancoltLista.exe
+C:\Users\Ubuntu\source\repos\LancoltLista\TestLibary\bin\Debug\nunit.framework.dll
+C:\Users\Ubuntu\source\repos\LancoltLista\TestLibary\bin\Debug\LancoltLista.pdb
+C:\Users\Ubuntu\source\repos\LancoltLista\TestLibary\bin\Debug\LancoltLista.exe.config
+C:\Users\Ubuntu\source\repos\LancoltLista\TestLibary\bin\Debug\nunit.framework.xml
+C:\Users\Ubuntu\source\repos\LancoltLista\TestLibary\obj\Debug\TestLibary.csprojAssemblyReference.cache
+C:\Users\Ubuntu\source\repos\LancoltLista\TestLibary\obj\Debug\TestLibary.csproj.CoreCompileInputs.cache
+C:\Users\Ubuntu\source\repos\LancoltLista\TestLibary\obj\Debug\TestLibary.csproj.CopyComplete
+C:\Users\Ubuntu\source\repos\LancoltLista\TestLibary\obj\Debug\TestLibary.dll
+C:\Users\Ubuntu\source\repos\LancoltLista\TestLibary\obj\Debug\TestLibary.pdb

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30711.63
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LancoltLista", "LancoltLista\LancoltLista.csproj", "{7A60398F-4BFF-4C0C-A916-C2A3C1030587}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLibary", "TestLibary\TestLibary.csproj", "{AD7E57A0-F8C6-4461-8E9F-2D09AEEB2FE4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7A60398F-4BFF-4C0C-A916-C2A3C1030587}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A60398F-4BFF-4C0C-A916-C2A3C1030587}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A60398F-4BFF-4C0C-A916-C2A3C1030587}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A60398F-4BFF-4C0C-A916-C2A3C1030587}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AD7E57A0-F8C6-4461-8E9F-2D09AEEB2FE4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AD7E57A0-F8C6-4461-8E9F-2D09AEEB2FE4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AD7E57A0-F8C6-4461-8E9F-2D09AEEB2FE4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AD7E57A0-F8C6-4461-8E9F-2D09AEEB2FE4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {19CB7844-C70B-405E-A502-1B3BC78CA10B}
+	EndGlobalSection
+EndGlobal
